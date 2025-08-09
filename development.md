@@ -24,3 +24,6 @@ Qiitaというウェブサイトに登録しました。プログラミング、
 
 There were a few interesting articles on Qiita - I read about the CCNF Landscape's *Continuous Optimization*. Will come back to the article another day.
 
+While looking for ways to improve my Vimium experience from yesterday - I watched a video about Qutebrowser and decided to switch. It's going great so far! There's better support for vim motions, and a lot of Google gunk has been removed (the browser is based on Chromium).
+
+Going back to tmux has also been fun. For now, I'm stuck searching up every key binding - but even that is a pleasant experience with Qute.
